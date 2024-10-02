@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 38d644cb151fc3c41875447f101ad115
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - layout: {instanceID: 0}
+  - sfxVenceuJogo: {instanceID: 0}
+  - audioController: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
